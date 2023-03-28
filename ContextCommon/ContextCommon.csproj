@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Reference Include="R_CommonFrontBackAPI">
-      <HintPath>..\..\..\..\Documents\ExecptionCommon\RuntimeLibrary\Common\R_CommonFrontBackAPI.dll</HintPath>
+      <HintPath>..\..\ExecptionCommon\RuntimeLibrary\Common\R_CommonFrontBackAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
 
