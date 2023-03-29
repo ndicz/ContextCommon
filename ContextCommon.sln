@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContextBack", "ContextBack\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContextService", "ContextService\ContextService.csproj", "{0DC39B80-BAE0-433C-A083-D53B8BF64C75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_EXP", "API_EXP\API_EXP.csproj", "{CE0EF736-CE9F-4995-88D1-DB6CEC9074E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_EXP", "API_EXP\API_EXP.csproj", "{CE0EF736-CE9F-4995-88D1-DB6CEC9074E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextConsole", "ContextConsole\ContextConsole.csproj", "{0AD42EAD-53FA-44D7-8DBD-04662046C720}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CE0EF736-CE9F-4995-88D1-DB6CEC9074E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE0EF736-CE9F-4995-88D1-DB6CEC9074E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE0EF736-CE9F-4995-88D1-DB6CEC9074E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD42EAD-53FA-44D7-8DBD-04662046C720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD42EAD-53FA-44D7-8DBD-04662046C720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD42EAD-53FA-44D7-8DBD-04662046C720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD42EAD-53FA-44D7-8DBD-04662046C720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

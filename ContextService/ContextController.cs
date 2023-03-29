@@ -43,6 +43,7 @@ namespace ContextService
 
             foreach (SalesStreamDTO loSales in loSalesList)
             {
+                await Task.Delay(1000);
                 yield return loSales;
             }
 
